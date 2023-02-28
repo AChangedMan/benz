@@ -1,0 +1,4 @@
+Obi
+Mobutu
+Mandela
+Biya
