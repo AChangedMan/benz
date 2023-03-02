@@ -1,4 +1,4 @@
-#These are the country that we serve for our clients
+#These are the countries we serve our clients
 
 Dem. Rep. of Congo
 Cameroon
